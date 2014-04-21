@@ -15,7 +15,7 @@ This blog is semi-anonymous.  I've taken somewhat reasonable steps to disconnect
 
 Why hide?  While nothing I'm doing here is illegal, it's still plausible for a government or members of a government to harass me in various ways (think: IRS).  
 
-<blockquote>Freedom of expression and privacy are two sides of the same coin – and we need both for full participation in democratic society. Surveillance techniques that prevent individuals remaining anonymous when producing or accessing information both infringe privacy and have a chilling effect on free expression.</blockquote>
+"Freedom of expression and privacy are two sides of the same coin – and we need both for full participation in democratic society. Surveillance techniques that prevent individuals remaining anonymous when producing or accessing information both infringe privacy and have a chilling effect on free expression."
 
 <a target="_blank" href="https://www.privacyinternational.org/issues/freedom-of-expression">Privacy International</a>
 
