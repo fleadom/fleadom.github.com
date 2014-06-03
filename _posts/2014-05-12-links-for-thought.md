@@ -13,5 +13,5 @@ tags: [Links]
 
 <a target="_blank" href="http://www.npr.org/blogs/parallels/2014/02/20/275937138/why-more-americans-are-renouncing-u-s-citizenship">Why More Americans Are Renouncing U.S. Citizenship</a>
 
-<blockquote>"If I can compare it to romance, I say the U.S. is like Fatal Attraction," says Suzanne Reisman, a lawyer in London who advises Americans abroad. "Once they've got you, they never let you go. You have to renounce your citizenship, or you have to die."</blockquote>
+<blockquote>If I can compare it to romance, I say the U.S. is like Fatal Attraction," says Suzanne Reisman, a lawyer in London who advises Americans abroad. "Once they've got you, they never let you go. You have to renounce your citizenship, or you have to die."</blockquote>
 
